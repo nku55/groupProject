@@ -1,7 +1,7 @@
 const hello = "Hello There!";
 
 let welcome = (msg) => {
-	hansolo.log(msg);
+	console.log(msg);
 }
 
 welcome(hello);
