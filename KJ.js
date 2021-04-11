@@ -1,3 +1,3 @@
 { name:"John" }
 
-person["name};
+person["name"];
